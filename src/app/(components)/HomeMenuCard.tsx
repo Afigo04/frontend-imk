@@ -2,7 +2,6 @@
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
-import file from '../../../public/file.svg'; // Adjust the path as necessary
 
 const HomeMenuCard = () => {
     return (

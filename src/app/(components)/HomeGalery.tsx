@@ -1,6 +1,5 @@
 import React from 'react';
 import Image from 'next/image';
-import Img1 from "../../../public/dummy-galery/1.jpg"
 
 const HomeGalery = () => {
     return (

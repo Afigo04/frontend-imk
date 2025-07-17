@@ -3,7 +3,6 @@
 import React from 'react';
 import Headers from '../(components)/Headers';
 import Footer from '../(components)/Footer';
-import Image from 'next/image';
 import { useState } from 'react';
 import AllImage from './AllImage';
 import Menu from './Menu';
