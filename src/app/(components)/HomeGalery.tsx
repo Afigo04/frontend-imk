@@ -30,7 +30,7 @@ const HomeGalery = () => {
 
                     <Image src={"/dummy-vibe/suasana-5.jpeg"} alt='' width={200} height={200} className='rounded-2xl w-full transition-transform duration-300 hover:scale-95'/>
 
-                    <Image src={"/dummy-menu/es-jeruk.jpg"} alt='' width={200} height={200} className='rounded-2xl w-full transition-transform duration-300 hover:scale-95'/>
+                    <Image src={"/dummy-menu/es-jeruk.png"} alt='' width={200} height={200} className='rounded-2xl w-full transition-transform duration-300 hover:scale-95'/>
 
                     <Image src={"/dummy-menu/jus.jpg"} alt='' width={200} height={200} className='rounded-2xl w-full transition-transform duration-300 hover:scale-95' />
                 </div>
